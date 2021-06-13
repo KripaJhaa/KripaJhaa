@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 <br />
 
 ### About Me 🚀
-🌱 I’m a Full stack developer with a masters degree in Computer Application. </br>
-👨‍💻  I am passionate about Web Dev & I enjoy learning new things. </br>
+🌱 I’m a Full stack developer with a Bechlor degree in Computer Science. </br>
+👨‍💻  I am passionate about Web Dev & System design, I enjoy learning about stocks/market and psychological stuff things. </br>
 
 ![Kripa's github stats](https://github-readme-stats.vercel.app/api?username=kripajhaa&show_icons=true&hide_border=true)&nbsp;&nbsp;
 ![Kripa's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kripajhaa&layout=compact&langs_count=8)
