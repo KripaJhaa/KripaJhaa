@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on something really cool
+- 🔭 I’m currently working on and off, while enjoying the ride of Debugging and Refactoring code-base.
 - 🌱 I’m currently learning Kafka, kubernates
 - 👯 I’m looking to collaborate on Some React project
 - 🤔 I’m looking for help with Java spring boot project/microservice
@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: @kripajha
 - 😄 Pronouns: krriii paaa
 - ⚡ Fun fact: I enjoy every ride of life. I am social person and have openion on about almost everything. Challenge me 🤘🏻
+- ✍🏻 Bog : About angular and main concepts : https://heyksj.blogspot.com
 
 <a href="https://www.linkedin.com/in/kripa-jha/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
