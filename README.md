@@ -1,7 +1,7 @@
 ### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Kripa Jha!](https://www.linkedin.com/in/kripa-jha/)
 
 
-Here are some ideas to get you started:
+About me:
 
 - 🔭 I’m currently working on and off, while enjoying the ride of Debugging and Refactoring code-base.
 - 🌱 I’m currently learning Kafka, kubernates
